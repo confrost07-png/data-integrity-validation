@@ -1,0 +1,5 @@
+﻿date_logic_classification,transaction_count,percentage
+Transaction before account opening,289,0.9633333333333334
+Account opened before customer signup,11,0.03666666666666667
+Valid date order,0,0.0
+Unable to validate,0,0.0
